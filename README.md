@@ -6,5 +6,5 @@
 # Tech Stack
 - MERN STACK
 - React js , Node js , MongoDB , Express js
-- Materiel UI
+- Material UI
 - RazorPay integration
